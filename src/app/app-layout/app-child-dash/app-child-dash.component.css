@@ -1,0 +1,14 @@
+.childDiv { 
+    width: 70%;
+    padding:30px;
+    margin: 10px; 
+    border: #525252 solid 1px;
+    height: auto;
+    float: left; 
+}
+.companyDetail {
+    width: 100%;
+    padding: 10px;
+    height: auto;
+    float: left; 
+}
