@@ -23,4 +23,4 @@ import { ReactiveFormsModule, FormsModule } from "@angular/forms";
   providers: [SearchService],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {}
